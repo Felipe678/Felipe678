@@ -5,7 +5,7 @@
 - ⚡ Fact about me: I love music !!!
 
 <div align="left">
-  <a href="https://github.com/Felipe678">
+  <a href="https://github.com/Felipe678?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe678&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe678&layout=compact&langs_count=8&theme=dark"/>
 </div>
