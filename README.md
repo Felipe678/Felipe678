@@ -7,7 +7,7 @@
 <div align="left">
   <a href="https://github.com/Felipe678">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe678&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="280cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe678&layout=donut-vertical&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe678&layout=compact&langs_count=8&theme=dark"/>
 </div>
     
 <h3 align="left">Languages, Frameworks, Libs and Tools:</h3>
