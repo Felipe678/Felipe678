@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe678&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 <div style="display: inline_block"><br>
 
@@ -34,7 +34,7 @@
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
 
-  <h2>QA</h2>
+  <h4>QA</h4>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" height="60" width="110" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png">
   
