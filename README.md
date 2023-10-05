@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Flutter and Quarkus
 - 🔭 I'm working on some personal projects to increase my portfolio 🎯
-- ⚡ Fact about me: I love music !!!
+- ⚡ About me: I love music and games 🎮!!!
 
 <div align="left">
   <a href="https://github.com/Felipe678?tab=repositories">
