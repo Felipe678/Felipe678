@@ -1,5 +1,5 @@
 <h2>Hi👋, I'm Felipe Oliveira Nogueira</h2> 
-
+- ❤️ Java developer since 2017
 - 🌱 I’m currently learning Flutter and Quarkus
 - 🔭 I'm working on some personal projects to increase my portfolio 🎯
 - ⚡ About me: I love music and games 🎮!!!
